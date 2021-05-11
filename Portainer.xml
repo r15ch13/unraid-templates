@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Container version="2">
   <TemplateURL>https://github.com/r15ch13/unraid-templates/blob/master/Portainer.xml</TemplateURL>
-  <Date>2018-05-06</Date>
+  <Date>2021-05-11</Date>
   <Beta>False</Beta>
   <Category>Network:Management Productivity: Tools:</Category>
-  <Name>Portainer</Name>
+  <Name>Portainer CE</Name>
   <Project>https://portainer.io</Project>
   <Description>
-    Portainer is a simple management solution for Docker. It consists of a web UI that allows you to easily manage your Docker containers, images, networks and volumes.
+    Portainer CE is a simple management solution for Docker. It consists of a web UI that allows you to easily manage your Docker containers, images, networks and volumes.
     [br][br]
 
     [b][u][span style='color: #E80000;']Configuration[/span][/u][/b][br]
