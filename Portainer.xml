@@ -49,6 +49,8 @@
     </Volume>
   </Data>
   <WebUI>http://[IP]:[PORT:9000]/</WebUI>
+  <Banner>https://github.com/r15ch13/unraid-templates/raw/master/img/Portainer-banner.png</Banner>
+  <Icon>https://github.com/r15ch13/unraid-templates/raw/master/img/Portainer-logo.png</Icon>
   <ExtraParams></ExtraParams>
   <Config Type="Path" Name="Config Storage Path" Target="/data" Default="/mnt/user/appdata/portainer" Mode="rw" Display="advanced-hide" Required="true" Description="This is where Portainer will store it's configuration.">/mnt/user/appdata/portainer</Config>
   <Config Type="Path" Name="Docker socket" Target="/var/run/docker.sock" Default="/var/run/docker.sock" Mode="rw" Display="advanced-hide" Required="true" Description="This is needed for Portainer to connect to Docker.">/var/run/docker.sock</Config>
