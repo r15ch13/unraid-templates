@@ -18,7 +18,7 @@
   <Overview>
     Portainer is a simple management solution for Docker. It consists of a web UI that allows you to easily manage your Docker containers, images, networks and volumes.
   </Overview>
-  <Registry>https://registry.hub.docker.com/u/portainer/portainer/</Registry>
+  <Registry>https://registry.hub.docker.com/r/portainer/portainer-ce/</Registry>
   <GitHub>https://github.com/portainer/portainer</GitHub>
   <Repository>portainer/portainer-ce</Repository>
   <Support>https://github.com/r15ch13/unraid-templates/issues</Support>
